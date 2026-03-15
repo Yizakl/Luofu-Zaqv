@@ -1,0 +1,24 @@
+### repo ###
+owner: Yizakl
+repo: Luofu-Zaqv
+
+# domain name
+# cname: 
+
+### website ###
+website:
+  # size: 240x240 png
+  logo: 
+  title: Luofu Zaqv
+  description: A blog powered by GG
+
+### PWA Manifest ###
+manifest:
+  name: Luofu Zaqv
+  short_name: Luofu
+  start_url: /
+  background_color: #fafafa
+  theme_color: #232629
+  display: standalone
+  # size: 240x240 png
+  icon: 
